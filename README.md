@@ -1,3 +1,5 @@
+# Hi, I'm Nicole! 👋
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,bootstrap,php)](https://skillicons.dev)
 
 
